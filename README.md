@@ -5,14 +5,16 @@
 
 Ser realizo una modificación al modelo de los datos:
 
-Modelo Original:
+* Modelo Original:
 
 ![image](https://github.com/user-attachments/assets/ec9a8267-b564-47d7-ab18-aa58494651de)
 
-Se modifico el modelo, es decir las tablas de un esquema de copo de nieve se normalizaron.
+* Se modifico el modelo, es decir las tablas de un esquema de copo de nieve se normalizaron.
 
 ![image](https://github.com/user-attachments/assets/6063be91-6c52-49c7-abf2-76cfe47a98eb)
 
+---
+---
 Después, se realizó el Reporte títulado: 
 
 ### **Comparativa Total Ingreso VS Ingreso del Año Anterior segmentado por Año, Categoría y Continente**.
