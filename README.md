@@ -9,8 +9,7 @@ Ser realizo una modificación al modelo de los datos:
 
 ![image](https://github.com/user-attachments/assets/ec9a8267-b564-47d7-ab18-aa58494651de)
 
-* Se modifico el modelo, es decir las tablas de un esquema de copo de nieve se normalizaron.
-
+* Se modificó el modelo, es decir, se desnormalizo las tablas que conforman un esquema de copo de nieve. La finalidad es de que el dashboard pueda tener tiempos de respuesta más rápidos.
 ![image](https://github.com/user-attachments/assets/6063be91-6c52-49c7-abf2-76cfe47a98eb)
 
 ---
